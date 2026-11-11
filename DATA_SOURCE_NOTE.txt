@@ -1,0 +1,1 @@
+Dataset provenance: The bundled real_estate_buyer_synthetic_dataset.csv is synthetic practice data. It is not actual Parcl customer data and must not be described as such. Replace it only with an authorized dataset and recalculate all findings before company-specific reporting.
