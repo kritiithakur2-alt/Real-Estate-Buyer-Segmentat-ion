@@ -1,0 +1,605 @@
+client_id,client_type,gender,country,region,date_of_birth,acquisition_purpose,loan_applied,referral_channel,satisfaction_score
+CL100001,Individual,Male,India,North,1988-10-26,Investment,No,Website,3.0
+CL100002,Individual,Male,United States,South,1991-10-27,Investment,No,Social Media,2.0
+CL100003,Individual,Male,United Kingdom,North,1978-10-27,Investment,Yes,Broker,5.0
+CL100004,Individual,Male,UAE,Abu Dhabi,1981-10-26,Personal use,Yes,Broker,4.0
+CL100005,Corporate,Male,India,North,1976-10-26,Investment,Yes,Website,2.0
+CL100006,Individual,Female,India,South,1994-10-27,Investment,No,Broker,5.0
+CL100007,Corporate,Prefer not to say,India,North,1983-10-27,Personal use,No,Social Media,5.0
+CL100008,Individual,Male,Canada,British Columbia,1993-10-26,Investment,No,Website,3.0
+CL100009,Individual,Female,UAE,Dubai,1999-10-27,Investment,No,Social Media,3.0
+CL100010,Individual,Female,United Kingdom,London,1987-10-27,Investment,No,Broker,4.0
+CL100011,Corporate,Male,India,North,1997-10-26,Investment,Yes,Online Ads,4.0
+CL100012,Individual,Female,United States,West,1974-10-27,Personal use,Yes,Online Ads,4.0
+CL100013,Individual,Female,Canada,British Columbia,1996-10-26,Investment,Yes,Referral,3.0
+CL100014,Individual,Male,India,South,1983-10-27,Investment,Yes,Website,5.0
+CL100015,Individual,Male,India,South,1994-10-27,Investment,No,Social Media,3.0
+CL100016,Individual,Male,India,North,1984-10-26,Personal use,No,Online Ads,4.0
+CL100017,Individual,Male,India,South,1993-10-26,Personal use,Yes,Social Media,3.0
+CL100018,Individual,Male,UAE,Abu Dhabi,2001-10-26,Investment,No,Social Media,5.0
+CL100019,Individual,Male,India,North,1982-10-27,Personal use,No,Online Ads,4.0
+CL100020,Individual,Female,India,West,1990-10-27,Personal use,Yes,Social Media,5.0
+CL100021,Individual,Male,UAE,Dubai,1984-10-26,Personal use,Yes,Direct,5.0
+CL100022,Individual,Female,India,South,1992-10-26,Personal use,No,Broker,3.0
+CL100023,Corporate,Prefer not to say,India,North,2002-10-27,Investment,Yes,Social Media,4.0
+CL100024,Individual,Male,India,West,1975-10-27,Investment,No,Direct,5.0
+CL100025,Individual,Male,India,North,1979-10-27,Investment,Yes,Broker,4.0
+CL100026,Individual,Female,Singapore,East,1993-10-26,Investment,Yes,Referral,4.0
+CL100027,Individual,Male,India,West,1986-10-27,Personal use,No,Social Media,5.0
+CL100028,Individual,Male,India,East,1976-10-26,Investment,No,Broker,3.0
+CL100029,Individual,Female,UAE,Abu Dhabi,1992-10-26,Investment,Yes,Broker,3.0
+CL100030,Individual,Female,India,West,1990-10-27,Personal use,Yes,Referral,3.0
+CL100031,Individual,Male,UAE,Sharjah,1984-10-26,Investment,Yes,Social Media,4.0
+CL100032,Individual,Female,India,East,1992-10-26,Investment,Yes,Online Ads,3.0
+CL100033,Individual,Male,India,North,1978-10-27,Investment,Yes,Direct,3.0
+CL100034,Individual,Female,United States,Northeast,1989-10-26,Investment,No,Referral,5.0
+CL100035,Individual,Female,United States,South,1996-10-26,Personal use,Yes,Online Ads,4.0
+CL100036,Individual,Male,Singapore,North,1980-10-26,Investment,Yes,Website,4.0
+CL100037,Individual,Female,India,North,2000-10-26,Investment,No,Online Ads,3.0
+CL100038,Individual,Male,India,East,1965-10-26,Investment,Yes,Broker,3.0
+CL100039,Individual,Female,United Kingdom,London,1970-10-27,Investment,Yes,Direct,3.0
+CL100040,Individual,Female,India,West,1981-10-26,Personal use,Yes,Social Media,5.0
+CL100041,Individual,Male,India,North,1982-10-27,Investment,No,Online Ads,3.0
+CL100042,Individual,Male,India,East,1983-10-27,Investment,Yes,Online Ads,4.0
+CL100043,Individual,Male,India,West,1992-10-26,Personal use,No,Social Media,5.0
+CL100044,Individual,Male,Canada,Alberta,1984-10-26,Personal use,No,Direct,4.0
+CL100045,Individual,Male,India,West,1997-10-26,Investment,Yes,Website,5.0
+CL100046,Individual,Female,United Kingdom,North,1981-10-26,Investment,No,Website,4.0
+CL100047,Individual,Female,India,South,1977-10-26,Personal use,Yes,Referral,4.0
+CL100048,Corporate,Male,UAE,Abu Dhabi,1991-10-27,Personal use,Yes,Direct,4.0
+CL100049,Individual,Male,UAE,Abu Dhabi,1994-10-27,Investment,No,Broker,4.0
+CL100050,Individual,Male,India,East,2000-10-26,Personal use,No,Referral,4.0
+CL100051,Individual,Female,United States,Midwest,1971-10-27,Investment,No,Referral,3.0
+CL100052,Individual,Female,Singapore,East,1993-10-26,Investment,Yes,Direct,4.0
+CL100053,Individual,Male,United States,West,1989-10-26,Investment,No,Online Ads,3.0
+CL100054,Individual,Male,Canada,British Columbia,1984-10-26,Investment,No,Referral,5.0
+CL100055,Corporate,Male,UAE,Dubai,1984-10-26,Personal use,Yes,Website,2.0
+CL100056,Individual,Male,United States,South,1979-10-27,Investment,Yes,Online Ads,4.0
+CL100057,Individual,Male,India,South,1991-10-27,Investment,Yes,Online Ads,4.0
+CL100058,Corporate,Female,India,West,2000-10-26,Personal use,Yes,Social Media,4.0
+CL100059,Individual,Female,India,East,2001-10-26,Investment,No,Direct,5.0
+CL100060,Corporate,Female,India,West,1993-10-26,Investment,Yes,Social Media,3.0
+CL100061,Individual,Female,India,West,1997-10-26,Investment,No,Direct,4.0
+CL100062,Individual,Male,India,West,1990-10-27,Investment,Yes,Website,2.0
+CL100063,Individual,Male,Canada,Alberta,1973-10-26,Investment,No,Social Media,3.0
+CL100064,Individual,Male,India,West,1991-10-27,Personal use,Yes,,5.0
+CL100065,Individual,Female,India,South,1991-10-27,Investment,Yes,Broker,2.0
+CL100066,Corporate,Female,UAE,Sharjah,1987-10-27,Investment,Yes,Direct,4.0
+CL100067,Corporate,Female,India,West,1991-10-27,Personal use,Yes,Referral,3.0
+CL100068,Corporate,Female,Singapore,North,1988-10-26,Personal use,No,Referral,4.0
+CL100069,Individual,Male,India,North,1981-10-26,Investment,No,Website,3.0
+CL100070,Individual,Female,United States,South,1977-10-26,Investment,No,Online Ads,3.0
+CL100071,Individual,Male,Singapore,East,1976-10-26,Investment,Yes,Online Ads,4.0
+CL100072,Individual,Female,India,South,1964-10-26,Investment,Yes,Social Media,4.0
+CL100073,Individual,Female,India,West,1981-10-26,Investment,Yes,Direct,4.0
+CL100074,Individual,Female,Singapore,West,1962-10-27,Investment,No,Website,4.0
+CL100075,Individual,Male,United Kingdom,Midlands,1996-10-26,Personal use,No,Online Ads,5.0
+CL100076,Individual,Male,United Kingdom,North,1964-10-26,Investment,No,Online Ads,4.0
+CL100077,Individual,Male,Singapore,Central,1991-10-27,Personal use,Yes,Direct,5.0
+CL100078,Individual,Male,India,West,1990-10-27,Investment,No,Website,3.0
+CL100079,Individual,Male,India,North,1988-10-26,Personal use,No,Referral,5.0
+CL100080,Individual,Female,India,East,1989-10-26,Personal use,No,Website,4.0
+CL100081,Corporate,Female,Canada,British Columbia,1986-10-27,Personal use,No,Referral,4.0
+CL100082,Individual,Male,UAE,Sharjah,1993-10-26,Investment,No,Website,4.0
+CL100083,Individual,Male,India,North,1978-10-27,Investment,No,Social Media,3.0
+CL100084,Individual,Female,India,North,1993-10-26,Investment,Yes,Broker,3.0
+CL100085,Individual,Male,India,West,1980-10-26,Personal use,No,Broker,5.0
+CL100086,Corporate,Male,India,South,1970-10-27,Investment,Yes,Referral,4.0
+CL100087,Individual,Female,United Kingdom,South East,1991-10-27,Investment,No,Broker,4.0
+CL100088,Individual,Male,UAE,Abu Dhabi,1978-10-27,Investment,Yes,Broker,3.0
+CL100089,Individual,Male,Canada,Quebec,1981-10-26,Investment,No,Online Ads,2.0
+CL100090,Individual,Female,India,North,1962-10-27,Investment,No,Broker,4.0
+CL100091,Corporate,Female,India,North,1993-10-26,Investment,No,Referral,
+CL100092,Individual,Female,United Kingdom,London,1978-10-27,Personal use,No,Social Media,4.0
+CL100093,Individual,Male,Singapore,North,2005-10-26,Personal use,No,Website,4.0
+CL100094,Individual,Male,UAE,Dubai,1992-10-26,Personal use,No,Direct,5.0
+CL100095,Individual,Male,Singapore,North,1983-10-27,Investment,No,Online Ads,3.0
+CL100096,Individual,Male,India,South,1972-10-26,Personal use,No,Social Media,5.0
+CL100097,Corporate,Female,UAE,Sharjah,2000-10-26,Personal use,Yes,Broker,5.0
+CL100098,Corporate,Male,India,North,1978-10-27,Personal use,No,Social Media,
+CL100099,Individual,Female,India,North,1988-10-26,Personal use,No,Referral,4.0
+CL100100,Individual,Male,India,South,2004-10-26,Investment,No,Website,2.0
+CL100101,Individual,Male,India,West,1985-10-26,Personal use,Yes,Social Media,4.0
+CL100102,Individual,Female,UAE,Sharjah,1968-10-26,Investment,Yes,Referral,5.0
+CL100103,Individual,Male,India,South,1999-10-27,Investment,No,Referral,5.0
+CL100104,Individual,Female,India,South,1988-10-26,Investment,Yes,Website,3.0
+CL100105,Corporate,Female,Canada,Alberta,1998-10-27,Personal use,No,Website,4.0
+CL100106,Individual,Female,India,East,1992-10-26,Personal use,No,Referral,3.0
+CL100107,Individual,Female,India,East,1971-10-27,Personal use,Yes,Referral,
+CL100108,Individual,Prefer not to say,Singapore,Central,1990-10-27,Personal use,No,Referral,5.0
+CL100109,Individual,Male,India,East,1972-10-26,Investment,No,Social Media,3.0
+CL100110,Individual,Female,India,West,1975-10-27,Investment,No,Broker,3.0
+CL100111,Individual,Male,India,South,1991-10-27,Investment,No,Social Media,4.0
+CL100112,Individual,Female,India,North,1993-10-26,Investment,Yes,Direct,4.0
+CL100113,Individual,Prefer not to say,United States,Northeast,1997-10-26,Investment,No,Website,4.0
+CL100114,Individual,Male,Singapore,East,1997-10-26,Investment,Yes,Online Ads,3.0
+CL100115,Individual,Male,UAE,Abu Dhabi,1983-10-27,Investment,No,Online Ads,5.0
+CL100116,Individual,Female,Canada,Quebec,1987-10-27,Personal use,No,Referral,4.0
+CL100117,Individual,Female,Singapore,East,1994-10-27,Investment,Yes,Direct,5.0
+CL100118,Individual,Female,India,West,2004-10-26,Personal use,No,Website,4.0
+CL100119,Individual,Male,Canada,Quebec,1986-10-27,Personal use,No,Referral,2.0
+CL100120,Individual,Female,UAE,Sharjah,1992-10-26,Investment,Yes,Website,2.0
+CL100121,Individual,Female,Singapore,Central,1989-10-26,Investment,No,Broker,4.0
+CL100122,Individual,Prefer not to say,Canada,British Columbia,1984-10-26,Investment,Yes,Broker,5.0
+CL100123,Individual,Male,India,North,2005-10-26,Investment,Yes,Online Ads,3.0
+CL100124,Corporate,Female,India,North,2004-10-26,Personal use,No,Direct,5.0
+CL100125,Individual,Female,India,North,1962-10-27,Investment,No,Website,5.0
+CL100126,Individual,Prefer not to say,India,North,1993-10-26,Investment,No,Online Ads,4.0
+CL100127,Individual,Female,Singapore,East,2005-10-26,Investment,No,Direct,4.0
+CL100128,Individual,Male,Canada,Ontario,2003-10-27,Personal use,No,Online Ads,5.0
+CL100129,Individual,Male,India,South,1960-10-26,Personal use,No,Direct,5.0
+CL100130,Individual,Female,India,South,1995-10-27,Personal use,Yes,Direct,4.0
+CL100131,Individual,Male,India,West,1974-10-27,Investment,Yes,Broker,4.0
+CL100132,Individual,Female,India,East,1986-10-27,Personal use,Yes,Social Media,4.0
+CL100133,Individual,Female,India,East,1992-10-26,Personal use,Yes,Referral,5.0
+CL100134,Individual,Male,India,South,1978-10-27,Personal use,No,Direct,5.0
+CL100135,Corporate,Male,United States,Midwest,2005-10-26,Personal use,Yes,Website,2.0
+CL100136,Individual,Male,India,South,2003-10-27,Investment,Yes,Broker,4.0
+CL100137,Individual,Male,India,South,1992-10-26,Personal use,Yes,Direct,4.0
+CL100138,Corporate,Female,United Kingdom,South East,2002-10-27,Personal use,No,Direct,4.0
+CL100139,Individual,Female,India,West,1993-10-26,Investment,No,Social Media,4.0
+CL100140,Individual,Female,United States,West,1978-10-27,Investment,No,Referral,5.0
+CL100141,Individual,Female,United States,Midwest,1986-10-27,Personal use,No,Direct,4.0
+CL100142,Corporate,Female,India,North,1972-10-26,Investment,No,Broker,4.0
+CL100143,Individual,Female,India,West,1985-10-26,Investment,No,Direct,5.0
+CL100144,Individual,Female,India,West,1976-10-26,Personal use,Yes,Broker,4.0
+CL100145,Individual,Female,India,West,1988-10-26,Investment,No,Referral,3.0
+CL100146,Individual,Male,India,West,1993-10-26,Investment,No,Referral,4.0
+CL100147,Individual,Male,UAE,Dubai,1971-10-27,Personal use,No,Website,2.0
+CL100148,Individual,Female,India,East,1995-10-27,Investment,No,Social Media,2.0
+CL100149,Individual,Other,India,East,1983-10-27,Investment,No,Referral,4.0
+CL100150,Individual,Male,India,West,1979-10-27,Investment,No,Broker,2.0
+CL100151,Individual,Female,Canada,British Columbia,1978-10-27,Personal use,No,Referral,3.0
+CL100152,Individual,Male,India,South,2000-10-26,Investment,Yes,Social Media,3.0
+CL100153,Individual,Male,India,East,1975-10-27,Personal use,No,Website,3.0
+CL100154,Individual,Male,India,East,1998-10-27,Personal use,No,Online Ads,4.0
+CL100155,Individual,Female,United States,Midwest,1978-10-27,Investment,No,Online Ads,5.0
+CL100156,Individual,Male,India,East,1981-10-26,Personal use,No,Online Ads,4.0
+CL100157,Individual,Female,United Kingdom,Midlands,1978-10-27,Investment,Yes,Website,3.0
+CL100158,Individual,Male,Singapore,East,2000-10-26,Personal use,No,Online Ads,5.0
+CL100159,Corporate,Male,India,South,1981-10-26,Investment,Yes,Online Ads,2.0
+CL100160,Individual,Male,United Kingdom,London,1975-10-27,Personal use,No,Direct,4.0
+CL100161,Individual,Male,India,South,1985-10-26,Investment,No,Social Media,2.0
+CL100162,Individual,Male,UAE,Abu Dhabi,1996-10-26,Investment,No,Website,4.0
+CL100163,Corporate,Female,UAE,Sharjah,1977-10-26,Personal use,Yes,Direct,4.0
+CL100164,Individual,Female,UAE,Abu Dhabi,1986-10-27,Investment,No,Online Ads,5.0
+CL100165,Individual,Male,India,North,2005-10-26,Investment,Yes,Broker,4.0
+CL100166,Individual,Female,Canada,British Columbia,1997-10-26,Investment,No,Broker,3.0
+CL100167,Individual,Female,India,West,1993-10-26,Personal use,No,Website,3.0
+CL100168,Corporate,Female,India,West,1970-10-27,Personal use,No,Website,4.0
+CL100169,Individual,Female,India,East,1972-10-26,Investment,No,Website,5.0
+CL100170,Individual,Prefer not to say,UAE,Abu Dhabi,1972-10-26,Investment,No,Website,5.0
+CL100171,Individual,Male,United Kingdom,Midlands,1984-10-26,Investment,Yes,Broker,3.0
+CL100172,Corporate,Other,India,North,1977-10-26,Personal use,Yes,Online Ads,5.0
+CL100173,Corporate,Male,India,East,2000-10-26,Personal use,No,Online Ads,2.0
+CL100174,Individual,Male,India,North,1987-10-27,Investment,No,Online Ads,3.0
+CL100175,Corporate,Female,United Kingdom,South East,1982-10-27,Investment,No,Referral,3.0
+CL100176,Corporate,Male,India,South,1999-10-27,Investment,Yes,Website,5.0
+CL100177,Individual,Female,United Kingdom,South East,1985-10-26,Investment,No,Online Ads,3.0
+CL100178,Individual,Male,India,East,1968-10-26,Investment,No,Social Media,4.0
+CL100179,Individual,Male,United States,Midwest,1981-10-26,Investment,No,Referral,4.0
+CL100180,Individual,Female,India,East,1977-10-26,Personal use,Yes,Online Ads,4.0
+CL100181,Individual,Prefer not to say,India,North,2005-10-26,Investment,Yes,Broker,5.0
+CL100182,Individual,Male,India,East,1970-10-27,Personal use,No,Online Ads,5.0
+CL100183,Individual,Male,United States,Northeast,1989-10-26,Investment,No,Broker,4.0
+CL100184,Individual,Female,Canada,Quebec,1995-10-27,Personal use,Yes,Broker,4.0
+CL100185,Individual,Male,India,West,1989-10-26,Personal use,No,Referral,3.0
+CL100186,Individual,Male,United Kingdom,London,2003-10-27,Investment,No,Online Ads,4.0
+CL100187,Corporate,Female,Singapore,East,1975-10-27,Investment,No,Referral,5.0
+CL100188,Individual,Female,UAE,Abu Dhabi,1991-10-27,Personal use,No,Online Ads,4.0
+CL100189,Individual,Male,UAE,Abu Dhabi,1995-10-27,Investment,Yes,Online Ads,4.0
+CL100190,Individual,Female,India,North,1989-10-26,Personal use,Yes,Referral,3.0
+CL100191,Individual,Male,India,South,1975-10-27,Investment,No,Referral,4.0
+CL100192,Individual,Other,Canada,Alberta,1986-10-27,Personal use,Yes,Website,4.0
+CL100193,Individual,Male,Canada,Alberta,2003-10-27,Investment,Yes,Broker,4.0
+CL100194,Individual,Female,UAE,Dubai,1982-10-27,Personal use,Yes,Broker,5.0
+CL100195,Individual,Male,India,West,1997-10-26,Personal use,Yes,Online Ads,3.0
+CL100196,Individual,Female,India,West,2005-10-26,Personal use,Yes,Online Ads,2.0
+CL100197,Individual,Female,United Kingdom,London,1971-10-27,Investment,Yes,Social Media,5.0
+CL100198,Corporate,Male,Canada,British Columbia,1982-10-27,Personal use,Yes,Website,3.0
+CL100199,Corporate,Female,Canada,British Columbia,1988-10-26,Investment,Yes,Social Media,4.0
+CL100200,Individual,Female,Singapore,North,1991-10-27,Personal use,No,Referral,4.0
+CL100201,Individual,Male,United Kingdom,South East,1972-10-26,Investment,No,Broker,2.0
+CL100202,Individual,Female,India,North,1953-10-26,Personal use,No,Website,5.0
+CL100203,Individual,Female,India,West,1982-10-27,Investment,Yes,Referral,3.0
+CL100204,Corporate,Male,Canada,British Columbia,1998-10-27,Personal use,Yes,Website,4.0
+CL100205,Corporate,Male,UAE,Abu Dhabi,1989-10-26,Personal use,No,Website,4.0
+CL100206,Individual,Male,India,North,1982-10-27,Personal use,No,Referral,5.0
+CL100207,Individual,Female,India,,2005-10-26,Investment,No,Referral,5.0
+CL100208,Individual,Male,United Kingdom,South East,1983-10-27,Investment,Yes,Social Media,2.0
+CL100209,Individual,Female,India,East,1982-10-27,Personal use,No,Direct,5.0
+CL100210,Individual,Female,India,North,1972-10-26,Investment,Yes,Referral,3.0
+CL100211,Corporate,Male,UAE,Sharjah,1974-10-27,Investment,Yes,Referral,5.0
+CL100212,Individual,Female,United Kingdom,London,1986-10-27,Personal use,No,Online Ads,4.0
+CL100213,Individual,Female,United Kingdom,London,1970-10-27,Personal use,No,Broker,4.0
+CL100214,Corporate,Male,India,North,1965-10-26,Investment,Yes,Referral,4.0
+CL100215,Individual,Male,United Kingdom,London,1987-10-27,Personal use,Yes,Direct,3.0
+CL100216,Individual,Male,India,West,1982-10-27,Personal use,No,Referral,5.0
+CL100217,Individual,Female,India,West,2005-10-26,Investment,Yes,Website,4.0
+CL100218,Individual,Female,Singapore,North,2003-10-27,Personal use,Yes,Broker,4.0
+CL100219,Individual,Female,United Kingdom,South East,1996-10-26,Investment,Yes,Social Media,4.0
+CL100220,Individual,Female,Canada,Alberta,1992-10-26,Investment,No,Website,3.0
+CL100221,Individual,Male,United Kingdom,Midlands,1999-10-27,Investment,Yes,Website,5.0
+CL100222,Corporate,Male,UAE,Abu Dhabi,1987-10-27,Investment,No,Direct,2.0
+CL100223,Individual,Male,India,,1992-10-26,Personal use,No,Online Ads,3.0
+CL100224,Corporate,Male,India,North,1975-10-27,Investment,No,Direct,5.0
+CL100225,Corporate,Female,India,North,1992-10-26,Investment,No,Online Ads,4.0
+CL100226,Individual,Male,India,South,2005-10-26,Investment,Yes,Social Media,4.0
+CL100227,Corporate,Female,United States,West,1986-10-27,Personal use,Yes,Broker,5.0
+CL100228,Individual,Male,India,East,1987-10-27,Personal use,Yes,Referral,5.0
+CL100229,Corporate,Male,Canada,British Columbia,1996-10-26,Investment,Yes,Social Media,4.0
+CL100230,Individual,Female,UAE,Abu Dhabi,1986-10-27,Investment,No,Online Ads,5.0
+CL100231,Individual,Female,Singapore,Central,1999-10-27,Personal use,Yes,Referral,3.0
+CL100232,Individual,Prefer not to say,India,East,1983-10-27,Investment,Yes,Website,4.0
+CL100233,Corporate,,UAE,Sharjah,1958-10-27,Investment,Yes,Referral,4.0
+CL100234,Individual,Female,India,North,2005-10-26,Investment,No,Broker,4.0
+CL100235,Individual,Female,India,South,1993-10-26,Personal use,Yes,Online Ads,3.0
+CL100236,Corporate,Male,United Kingdom,North,1994-10-27,Investment,Yes,Online Ads,2.0
+CL100237,Individual,Male,India,West,1992-10-26,Investment,Yes,Online Ads,4.0
+CL100238,Individual,Male,India,West,1976-10-26,Investment,No,Online Ads,3.0
+CL100239,Individual,Female,United Kingdom,London,1981-10-26,Personal use,No,Website,5.0
+CL100240,Individual,Male,India,East,1978-10-27,Investment,Yes,Social Media,4.0
+CL100241,Individual,Female,United States,West,1987-10-27,Personal use,Yes,Direct,4.0
+CL100242,Corporate,Male,United States,South,2002-10-27,Investment,Yes,Social Media,5.0
+CL100243,Individual,Male,United States,West,1999-10-27,Investment,Yes,Online Ads,4.0
+CL100244,Individual,Female,India,East,1979-10-27,Personal use,No,Website,4.0
+CL100245,Individual,Female,India,North,1985-10-26,Investment,No,Online Ads,3.0
+CL100246,Corporate,Female,United States,West,1973-10-26,Personal use,No,Referral,5.0
+CL100247,Corporate,Female,India,West,1984-10-26,Personal use,No,Website,4.0
+CL100248,Individual,Female,United States,Northeast,2000-10-26,Personal use,Yes,Online Ads,5.0
+CL100249,Corporate,Male,United States,Northeast,1993-10-26,Investment,No,Referral,3.0
+CL100250,Individual,Male,Canada,British Columbia,1981-10-26,Personal use,No,Direct,3.0
+CL100251,Individual,Female,India,East,1979-10-27,Investment,Yes,Website,5.0
+CL100252,Individual,Female,India,South,1978-10-27,Personal use,No,Website,5.0
+CL100253,Corporate,Female,Canada,Alberta,1999-10-27,Personal use,Yes,Online Ads,4.0
+CL100254,Individual,Male,India,North,2000-10-26,Personal use,Yes,Referral,4.0
+CL100255,Individual,Female,India,North,1989-10-26,Investment,Yes,Social Media,3.0
+CL100256,Individual,Male,UAE,Dubai,1971-10-27,Investment,Yes,Online Ads,3.0
+CL100257,Individual,Male,United States,Midwest,1995-10-27,Investment,No,Website,3.0
+CL100258,Individual,Male,United Kingdom,Midlands,1982-10-27,Personal use,No,Online Ads,5.0
+CL100259,Individual,Male,UAE,Abu Dhabi,1982-10-27,Investment,No,Website,4.0
+CL100260,Individual,Female,India,South,1979-10-27,Investment,No,Online Ads,4.0
+CL100261,Individual,Prefer not to say,UAE,Abu Dhabi,1969-10-26,Personal use,No,Social Media,4.0
+CL100262,Individual,Female,United States,West,1970-10-27,Personal use,Yes,Social Media,4.0
+CL100263,Individual,Female,India,North,1994-10-27,Investment,No,Social Media,3.0
+CL100264,Individual,Male,India,North,2005-10-26,Personal use,Yes,Referral,3.0
+CL100265,Individual,Other,Canada,British Columbia,1994-10-27,Investment,No,Social Media,5.0
+CL100266,Individual,Male,Singapore,Central,1986-10-27,Investment,No,Website,4.0
+CL100267,Individual,Female,United Kingdom,South East,1991-10-27,Investment,Yes,Referral,4.0
+CL100268,Individual,Female,United Kingdom,North,1965-10-26,Investment,No,Broker,4.0
+CL100269,Individual,Other,India,East,1987-10-27,Investment,No,Online Ads,4.0
+CL100270,Corporate,Female,India,West,1980-10-26,Personal use,No,Online Ads,4.0
+CL100271,Individual,Male,Singapore,North,1985-10-26,Investment,Yes,Social Media,3.0
+CL100272,Individual,Male,Singapore,East,1991-10-27,Investment,Yes,Referral,3.0
+CL100273,Individual,Male,Canada,Quebec,2005-10-26,Personal use,Yes,Broker,3.0
+CL100274,Individual,Female,United States,Midwest,1988-10-26,Investment,Yes,Referral,4.0
+CL100275,Individual,Male,India,North,1951-10-27,Investment,Yes,Social Media,4.0
+CL100276,Individual,Female,India,South,2001-10-26,Personal use,No,Direct,3.0
+CL100277,Corporate,Male,Singapore,Central,2005-10-26,Personal use,Yes,Direct,4.0
+CL100278,Individual,Male,United Kingdom,Midlands,1966-10-27,Personal use,No,Referral,5.0
+CL100279,Individual,Male,United Kingdom,Midlands,1979-10-27,Personal use,No,Online Ads,3.0
+CL100280,Individual,Female,Singapore,West,1985-10-26,Personal use,No,Website,4.0
+CL100281,Individual,Prefer not to say,Canada,Ontario,1972-10-26,Investment,Yes,Online Ads,4.0
+CL100282,Individual,Male,India,North,1996-10-26,Personal use,No,Online Ads,3.0
+CL100283,Individual,Female,India,North,1988-10-26,Investment,No,Website,4.0
+CL100284,Corporate,Female,India,North,1976-10-26,Personal use,Yes,Website,4.0
+CL100285,Corporate,Male,UAE,Sharjah,1964-10-26,Investment,Yes,Direct,3.0
+CL100286,Individual,Male,India,West,2000-10-26,Investment,No,Referral,4.0
+CL100287,Individual,Male,India,South,1973-10-26,Investment,Yes,Referral,4.0
+CL100288,Individual,Female,UAE,Abu Dhabi,1983-10-27,Personal use,Yes,Online Ads,3.0
+CL100289,Individual,Female,India,North,1985-10-26,Investment,Yes,Direct,3.0
+CL100290,Individual,Male,UAE,Sharjah,1987-10-27,Personal use,Yes,Social Media,3.0
+CL100291,Individual,Female,India,West,2002-10-27,Personal use,No,Social Media,3.0
+CL100292,Individual,Male,India,West,1976-10-26,Investment,Yes,Direct,4.0
+CL100293,Individual,Prefer not to say,Canada,British Columbia,1996-10-26,Personal use,No,Website,3.0
+CL100294,Individual,Prefer not to say,India,South,1999-10-27,Personal use,No,Website,3.0
+CL100295,Individual,Other,India,West,1977-10-26,Personal use,No,Referral,3.0
+CL100296,Individual,Male,UAE,Sharjah,1978-10-27,Investment,No,Broker,3.0
+CL100297,Individual,Female,Singapore,West,1986-10-27,Investment,No,Website,4.0
+CL100298,Individual,Female,India,East,1975-10-27,Investment,Yes,Website,4.0
+CL100299,Corporate,Male,UAE,Abu Dhabi,1971-10-27,Investment,No,Direct,4.0
+CL100300,Individual,Male,India,East,1973-10-26,Personal use,No,Direct,3.0
+CL100301,Corporate,Female,India,East,1993-10-26,Investment,No,Social Media,4.0
+CL100302,Individual,Female,UAE,Sharjah,1976-10-26,Personal use,No,Social Media,2.0
+CL100303,Individual,Female,UAE,Sharjah,1985-10-26,Investment,Yes,Broker,4.0
+CL100304,Individual,Male,UAE,Dubai,1968-10-26,Investment,Yes,Online Ads,4.0
+CL100305,Individual,Male,United Kingdom,London,1988-10-26,Personal use,No,Online Ads,4.0
+CL100306,Individual,Male,United States,West,1991-10-27,Personal use,Yes,Broker,4.0
+CL100307,Individual,Female,India,South,1994-10-27,Investment,No,,2.0
+CL100308,Individual,Prefer not to say,India,West,1985-10-26,Investment,Yes,Online Ads,3.0
+CL100309,Corporate,Male,Singapore,West,1982-10-27,Investment,Yes,Direct,4.0
+CL100310,Corporate,Female,India,East,1982-10-27,Investment,Yes,Online Ads,4.0
+CL100311,Individual,Female,India,North,1983-10-27,Investment,Yes,Referral,4.0
+CL100312,Individual,Female,India,South,1980-10-26,Investment,No,Broker,4.0
+CL100313,Corporate,Female,India,North,1989-10-26,Investment,Yes,Online Ads,4.0
+CL100314,Corporate,Prefer not to say,United States,Northeast,1997-10-26,Personal use,No,Online Ads,3.0
+CL100315,Corporate,Male,Canada,Ontario,1998-10-27,Investment,No,Referral,4.0
+CL100316,Individual,Male,United Kingdom,London,1976-10-26,Investment,Yes,Social Media,3.0
+CL100317,Individual,Female,India,West,1982-10-27,Investment,No,Website,3.0
+CL100318,Individual,Female,India,West,2005-10-26,Personal use,No,Broker,5.0
+CL100319,Individual,Male,India,North,1975-10-27,Personal use,No,Broker,3.0
+CL100320,Individual,Female,India,South,1966-10-27,Investment,Yes,Online Ads,3.0
+CL100321,Individual,Male,UAE,Abu Dhabi,1995-10-27,Personal use,No,Direct,2.0
+CL100322,Individual,Male,United Kingdom,South East,1983-10-27,Investment,No,Online Ads,1.0
+CL100323,Corporate,Male,United Kingdom,South East,1992-10-26,Investment,Yes,Direct,4.0
+CL100324,Individual,Male,India,North,1980-10-26,Investment,Yes,Website,4.0
+CL100325,Individual,Female,United States,Midwest,2000-10-26,Investment,No,Direct,5.0
+CL100326,Individual,Female,United Kingdom,South East,1988-10-26,Personal use,Yes,Online Ads,4.0
+CL100327,Individual,Female,UAE,Dubai,1976-10-26,Personal use,No,Website,4.0
+CL100328,Individual,Male,UAE,Abu Dhabi,1973-10-26,Investment,Yes,Online Ads,3.0
+CL100329,Individual,Female,India,South,1982-10-27,Personal use,No,Online Ads,3.0
+CL100330,Individual,Female,India,North,1991-10-27,Personal use,No,Broker,5.0
+CL100331,Individual,,India,West,2005-10-26,Investment,Yes,Referral,4.0
+CL100332,Individual,Female,Singapore,West,1995-10-27,Investment,Yes,Broker,4.0
+CL100333,Individual,Female,India,East,1992-10-26,Investment,No,Online Ads,3.0
+CL100334,Individual,Female,India,North,1995-10-27,Investment,No,Referral,5.0
+CL100335,Individual,Male,India,East,1986-10-27,Investment,No,Social Media,2.0
+CL100336,Individual,Male,India,East,1991-10-27,Investment,Yes,Website,3.0
+CL100337,Corporate,Male,Canada,Quebec,1985-10-26,Investment,Yes,Broker,4.0
+CL100338,Corporate,Female,United Kingdom,Midlands,1974-10-27,Personal use,Yes,Broker,5.0
+CL100339,Individual,Prefer not to say,India,North,1991-10-27,Personal use,No,Social Media,4.0
+CL100340,Individual,Male,India,East,2002-10-27,Personal use,Yes,Referral,3.0
+CL100341,Individual,Female,India,North,1995-10-27,Investment,Yes,Broker,5.0
+CL100342,Individual,Male,India,North,1981-10-26,Personal use,No,Direct,4.0
+CL100343,Individual,Female,India,West,1980-10-26,Personal use,No,Broker,5.0
+CL100344,Individual,Male,India,East,1983-10-27,Personal use,Yes,Website,3.0
+CL100345,Individual,Male,India,East,1973-10-26,Investment,Yes,Broker,5.0
+CL100346,Individual,Female,UAE,Dubai,1989-10-26,Personal use,No,Broker,2.0
+CL100347,Individual,Prefer not to say,UAE,Abu Dhabi,1964-10-26,Investment,No,Broker,3.0
+CL100348,Individual,Male,India,West,1978-10-27,Investment,Yes,Online Ads,4.0
+CL100349,Individual,Male,India,West,2005-10-26,Investment,No,Online Ads,4.0
+CL100350,Individual,Female,UAE,Sharjah,1967-10-27,Personal use,No,Social Media,5.0
+CL100351,Individual,Female,India,West,1995-10-27,Investment,Yes,Referral,2.0
+CL100352,Corporate,Female,Canada,Quebec,1998-10-27,Personal use,Yes,Broker,4.0
+CL100353,Individual,Male,United Kingdom,North,1981-10-26,Personal use,No,Referral,5.0
+CL100354,Individual,Female,India,South,2005-10-26,Investment,No,Website,4.0
+CL100355,Individual,Male,India,West,1995-10-27,Personal use,Yes,Online Ads,3.0
+CL100356,Individual,Male,United Kingdom,Midlands,1970-10-27,Investment,No,Online Ads,5.0
+CL100357,Corporate,Female,India,North,1981-10-26,Personal use,No,Direct,3.0
+CL100358,Individual,Male,UAE,Sharjah,1978-10-27,Investment,Yes,Direct,3.0
+CL100359,Individual,Female,United States,South,1994-10-27,Investment,No,Broker,3.0
+CL100360,Individual,Prefer not to say,UAE,Abu Dhabi,2004-10-26,Personal use,No,Website,
+CL100361,Corporate,Male,India,East,1979-10-27,Personal use,Yes,Broker,4.0
+CL100362,Corporate,Female,United Kingdom,South East,1977-10-26,Personal use,Yes,Broker,3.0
+CL100363,Individual,Female,India,South,1977-10-26,Personal use,Yes,Website,3.0
+CL100364,Individual,Female,UAE,Sharjah,1985-10-26,Personal use,No,Online Ads,3.0
+CL100365,Individual,Male,United States,Midwest,1998-10-27,Personal use,No,Broker,3.0
+CL100366,Individual,Male,India,South,1960-10-26,Personal use,Yes,Social Media,4.0
+CL100367,Individual,Male,United States,South,1982-10-27,Personal use,No,Direct,4.0
+CL100368,Individual,Female,Canada,Alberta,1989-10-26,Investment,No,Online Ads,4.0
+CL100369,Individual,Female,India,East,1989-10-26,Personal use,No,Broker,4.0
+CL100370,Individual,Female,India,South,1985-10-26,Investment,Yes,Broker,5.0
+CL100371,Individual,Male,India,North,1975-10-27,Personal use,Yes,Website,4.0
+CL100372,Individual,Male,India,East,1985-10-26,Personal use,Yes,Online Ads,5.0
+CL100373,Corporate,Male,India,South,1978-10-27,Personal use,No,Website,3.0
+CL100374,Individual,Female,United Kingdom,South East,1985-10-26,Personal use,Yes,Referral,5.0
+CL100375,Individual,Male,India,North,1988-10-26,Personal use,No,Referral,4.0
+CL100376,Corporate,Male,India,North,1980-10-26,Investment,Yes,Broker,4.0
+CL100377,Individual,Male,Canada,Alberta,1980-10-26,Personal use,Yes,Broker,3.0
+CL100378,Individual,Male,India,East,1989-10-26,Investment,No,Broker,4.0
+CL100379,Individual,Female,Singapore,North,1995-10-27,Investment,No,Direct,3.0
+CL100380,Individual,Female,India,West,1983-10-27,Investment,Yes,Referral,5.0
+CL100381,Corporate,Male,India,East,1986-10-27,Investment,Yes,Referral,5.0
+CL100382,Individual,Male,United Kingdom,North,1993-10-26,Investment,No,Broker,3.0
+CL100383,Individual,Female,UAE,Dubai,1996-10-26,Personal use,Yes,Online Ads,5.0
+CL100384,Individual,Male,Canada,Quebec,1982-10-27,Investment,Yes,Referral,4.0
+CL100385,Individual,Male,United Kingdom,London,1981-10-26,Investment,No,Referral,2.0
+CL100386,Individual,Male,Singapore,North,1991-10-27,Investment,Yes,Online Ads,3.0
+CL100387,Corporate,Male,India,West,1993-10-26,Investment,No,Social Media,3.0
+CL100388,Individual,Female,India,South,1996-10-26,Personal use,Yes,Referral,4.0
+CL100389,Corporate,Male,Singapore,Central,1983-10-27,Investment,Yes,Website,3.0
+CL100390,Individual,Male,Singapore,North,1996-10-26,Investment,Yes,Online Ads,3.0
+CL100391,Individual,Male,United States,Midwest,1962-10-27,Investment,Yes,Broker,4.0
+CL100392,Individual,Male,India,South,1992-10-26,Investment,Yes,Referral,4.0
+CL100393,Individual,Male,India,North,2005-10-26,Investment,Yes,Social Media,4.0
+CL100394,Corporate,Female,Singapore,East,1987-10-27,Investment,No,Website,4.0
+CL100395,Corporate,Male,India,West,1988-10-26,Personal use,Yes,Online Ads,4.0
+CL100396,Individual,Male,United States,Northeast,1975-10-27,Personal use,Yes,Website,2.0
+CL100397,Individual,Male,Canada,British Columbia,1984-10-26,Investment,No,Online Ads,3.0
+CL100398,Individual,Male,India,East,1996-10-26,Personal use,No,Website,4.0
+CL100399,Individual,Male,Singapore,Central,1990-10-27,Investment,Yes,Referral,4.0
+CL100400,Individual,Male,Singapore,East,1983-10-27,Investment,No,Direct,4.0
+CL100401,Individual,Male,India,West,2005-10-26,Personal use,Yes,Online Ads,3.0
+CL100402,Individual,Female,Canada,Alberta,1972-10-26,Investment,Yes,Broker,5.0
+CL100403,Individual,Female,India,North,1996-10-26,Personal use,No,Online Ads,2.0
+CL100404,Individual,Male,Canada,British Columbia,1971-10-27,Investment,No,Referral,4.0
+CL100405,Individual,Male,India,North,1983-10-27,Investment,Yes,Website,5.0
+CL100406,Individual,Female,Canada,Ontario,1980-10-26,Investment,Yes,Direct,5.0
+CL100407,Individual,Female,India,South,1974-10-27,Personal use,No,Referral,4.0
+CL100408,Individual,Male,India,South,1981-10-26,Personal use,Yes,Online Ads,3.0
+CL100409,Individual,Female,Canada,Quebec,1980-10-26,Personal use,No,,5.0
+CL100410,Individual,Female,India,South,1989-10-26,Investment,Yes,Online Ads,4.0
+CL100411,Individual,Female,India,West,1983-10-27,Investment,No,Online Ads,4.0
+CL100412,Individual,Female,United States,Northeast,1993-10-26,Investment,No,Broker,3.0
+CL100413,Individual,Female,United States,Northeast,1991-10-27,Investment,No,Online Ads,3.0
+CL100414,Individual,Female,UAE,Sharjah,1965-10-26,Personal use,No,Online Ads,4.0
+CL100415,Individual,Female,UAE,Abu Dhabi,1996-10-26,Investment,No,Broker,4.0
+CL100416,Corporate,Male,India,West,1985-10-26,Personal use,Yes,,4.0
+CL100417,Individual,Male,India,West,1986-10-27,Personal use,Yes,Online Ads,3.0
+CL100418,Individual,Male,India,East,1990-10-27,Investment,Yes,Referral,3.0
+CL100419,Individual,Female,United Kingdom,Midlands,1981-10-26,Personal use,No,Broker,3.0
+CL100420,Individual,Female,Singapore,Central,1981-10-26,Investment,No,Referral,3.0
+CL100421,Individual,Male,Singapore,West,1997-10-26,Investment,Yes,Website,3.0
+CL100422,Individual,Female,Singapore,Central,1986-10-27,Investment,Yes,Online Ads,2.0
+CL100423,Individual,Male,India,North,1999-10-27,Personal use,Yes,Broker,4.0
+CL100424,Individual,Male,India,North,1978-10-27,Investment,No,Referral,3.0
+CL100425,Individual,Male,India,South,1985-10-26,Investment,Yes,Broker,5.0
+CL100426,Individual,Female,UAE,Dubai,1986-10-27,Investment,No,Social Media,4.0
+CL100427,Individual,Female,India,North,1980-10-26,Investment,No,Broker,4.0
+CL100428,Individual,Male,Canada,British Columbia,1990-10-27,Personal use,Yes,Referral,5.0
+CL100429,Individual,Female,India,North,1977-10-26,Personal use,Yes,Referral,3.0
+CL100430,Corporate,Male,India,West,1997-10-26,Investment,Yes,Referral,5.0
+CL100431,Individual,Male,India,West,1971-10-27,Investment,Yes,Online Ads,3.0
+CL100432,Corporate,Prefer not to say,Singapore,North,1993-10-26,Personal use,Yes,Online Ads,5.0
+CL100433,Individual,Female,UAE,Dubai,2005-10-26,Investment,Yes,Social Media,3.0
+CL100434,Corporate,Male,India,South,1991-10-27,Personal use,No,Referral,4.0
+CL100435,Individual,,India,West,1992-10-26,Investment,Yes,Website,4.0
+CL100436,Individual,Female,United Kingdom,South East,1991-10-27,Investment,No,Broker,4.0
+CL100437,Individual,,India,South,1984-10-26,Investment,No,Broker,3.0
+CL100438,Individual,Male,Canada,Alberta,1975-10-27,Investment,No,Online Ads,3.0
+CL100439,Individual,Female,United Kingdom,,1989-10-26,Personal use,Yes,Social Media,5.0
+CL100440,Individual,Female,India,West,1995-10-27,Investment,No,Online Ads,3.0
+CL100441,Individual,Female,India,South,1999-10-27,Personal use,Yes,Broker,4.0
+CL100442,Individual,Male,United States,Midwest,1992-10-26,Personal use,No,Social Media,5.0
+CL100443,Individual,,India,North,2005-10-26,Investment,No,Broker,5.0
+CL100444,Individual,Male,India,East,1995-10-27,Personal use,No,Broker,3.0
+CL100445,Individual,Female,Singapore,West,1973-10-26,Investment,Yes,Online Ads,4.0
+CL100446,Individual,Female,United States,Midwest,1996-10-26,Investment,No,Referral,4.0
+CL100447,Individual,Male,United States,West,1980-10-26,Personal use,Yes,Broker,2.0
+CL100448,Corporate,Male,Singapore,West,2000-10-26,Investment,Yes,Referral,4.0
+CL100449,Individual,Female,India,West,1968-10-26,Personal use,Yes,Social Media,4.0
+CL100450,Individual,Male,India,South,1967-10-27,Investment,Yes,Referral,5.0
+CL100451,Individual,Prefer not to say,Singapore,North,1980-10-26,Personal use,Yes,Referral,3.0
+CL100452,Individual,Male,UAE,Dubai,1965-10-26,Personal use,No,Referral,5.0
+CL100453,Individual,Male,India,West,1983-10-27,Personal use,No,Referral,5.0
+CL100454,Individual,Prefer not to say,Canada,Quebec,1979-10-27,Personal use,Yes,Website,4.0
+CL100455,Individual,Female,India,South,1973-10-26,Personal use,Yes,Broker,2.0
+CL100456,Individual,Male,India,North,1985-10-26,Investment,Yes,Broker,3.0
+CL100457,Individual,Prefer not to say,India,East,2004-10-26,Personal use,Yes,Social Media,5.0
+CL100458,Individual,Female,India,North,1978-10-27,Investment,Yes,Direct,4.0
+CL100459,Individual,Male,India,North,1992-10-26,Investment,No,Social Media,4.0
+CL100460,Individual,Male,India,North,1991-10-27,Investment,Yes,Online Ads,4.0
+CL100461,Individual,Male,India,West,1984-10-26,Personal use,Yes,Broker,4.0
+CL100462,Individual,Male,United Kingdom,Midlands,1981-10-26,Investment,Yes,Referral,2.0
+CL100463,Individual,Male,Singapore,East,1985-10-26,Investment,No,Online Ads,4.0
+CL100464,Individual,Male,UAE,Abu Dhabi,1980-10-26,Investment,No,Broker,5.0
+CL100465,Individual,Female,United States,West,1995-10-27,Personal use,No,Referral,3.0
+CL100466,Individual,Male,India,South,1987-10-27,Personal use,No,Online Ads,4.0
+CL100467,Individual,Female,India,North,1978-10-27,Investment,Yes,Online Ads,3.0
+CL100468,Individual,Female,Canada,Ontario,1967-10-27,Investment,Yes,Online Ads,4.0
+CL100469,Individual,Male,India,West,1964-10-26,Personal use,No,Direct,3.0
+CL100470,Individual,Male,United States,Northeast,1982-10-27,Investment,Yes,,5.0
+CL100471,Individual,Male,India,East,1978-10-27,Investment,No,Referral,4.0
+CL100472,Individual,Other,United States,Northeast,1965-10-26,Personal use,Yes,Website,2.0
+CL100473,Corporate,Male,India,North,1994-10-27,Personal use,Yes,Referral,4.0
+CL100474,Individual,Male,Canada,Quebec,1980-10-26,Investment,No,Direct,5.0
+CL100475,Individual,Female,UAE,Abu Dhabi,1979-10-27,Personal use,No,Online Ads,3.0
+CL100476,Individual,Male,United States,,1971-10-27,Personal use,No,Website,4.0
+CL100477,Individual,Male,India,East,2000-10-26,Investment,Yes,Broker,5.0
+CL100478,Individual,Male,UAE,Sharjah,1997-10-26,Personal use,No,Direct,4.0
+CL100479,Individual,Female,United States,Northeast,1987-10-27,Personal use,Yes,Broker,5.0
+CL100480,Corporate,Female,UAE,Dubai,1983-10-27,Personal use,Yes,Social Media,3.0
+CL100481,Individual,Female,UAE,Sharjah,1975-10-27,Personal use,Yes,Online Ads,4.0
+CL100482,Individual,Female,United Kingdom,London,1981-10-26,Investment,Yes,Referral,4.0
+CL100483,Individual,Female,India,East,1989-10-26,Investment,Yes,Referral,4.0
+CL100484,Individual,Male,UAE,Dubai,1982-10-27,Investment,Yes,Direct,4.0
+CL100485,Individual,Male,UAE,Abu Dhabi,1984-10-26,Investment,Yes,Online Ads,2.0
+CL100486,Individual,Female,Canada,Alberta,1968-10-26,Investment,Yes,Online Ads,3.0
+CL100487,Individual,Female,India,West,1985-10-26,Personal use,Yes,Referral,5.0
+CL100488,Corporate,Female,India,West,1991-10-27,Personal use,Yes,Online Ads,3.0
+CL100489,Individual,Female,United States,West,1982-10-27,Personal use,Yes,Online Ads,3.0
+CL100490,Individual,Female,Canada,Alberta,1985-10-26,Personal use,No,Direct,4.0
+CL100491,Individual,Female,India,South,2004-10-26,Personal use,Yes,Website,4.0
+CL100492,Individual,Male,UAE,Abu Dhabi,1987-10-27,Investment,Yes,Broker,4.0
+CL100493,Individual,Prefer not to say,India,North,1988-10-26,Investment,Yes,Broker,4.0
+CL100494,Individual,Female,India,North,1993-10-26,Investment,No,Referral,4.0
+CL100495,Individual,Female,India,North,1976-10-26,Personal use,No,Online Ads,4.0
+CL100496,Individual,Male,India,North,1996-10-26,Investment,No,Referral,3.0
+CL100497,Individual,Female,UAE,Abu Dhabi,1982-10-27,Personal use,No,Referral,4.0
+CL100498,Corporate,Female,India,East,1989-10-26,Investment,No,Broker,4.0
+CL100499,Individual,Male,United States,West,1986-10-27,Personal use,No,Website,4.0
+CL100500,Individual,Female,United States,Midwest,1982-10-27,Personal use,No,Online Ads,2.0
+CL100501,Individual,Male,United Kingdom,South East,2001-10-26,Personal use,Yes,Website,4.0
+CL100502,Corporate,Male,UAE,Dubai,1985-10-26,Personal use,Yes,Direct,3.0
+CL100503,Individual,Female,India,South,1962-10-27,Personal use,Yes,Social Media,5.0
+CL100504,Individual,Female,Singapore,West,2004-10-26,Personal use,No,Social Media,4.0
+CL100505,Individual,Male,United Kingdom,Midlands,1988-10-26,Personal use,No,Social Media,5.0
+CL100506,Individual,Female,India,South,1975-10-27,Personal use,No,Referral,4.0
+CL100507,Individual,Female,United States,South,1984-10-26,Personal use,Yes,Social Media,4.0
+CL100508,Individual,Male,Canada,British Columbia,1979-10-27,Investment,Yes,Online Ads,5.0
+CL100509,Individual,Male,United States,West,2005-10-26,Investment,Yes,Broker,5.0
+CL100510,Individual,Female,United Kingdom,London,1980-10-26,Personal use,Yes,Broker,
+CL100511,Individual,Male,UAE,Abu Dhabi,1995-10-27,Investment,No,Online Ads,4.0
+CL100512,Individual,Female,India,South,1984-10-26,Investment,No,Social Media,2.0
+CL100513,Individual,Male,United States,South,1987-10-27,Personal use,Yes,Direct,4.0
+CL100514,Individual,Male,Canada,Alberta,1962-10-27,Personal use,No,Referral,4.0
+CL100515,Individual,Male,India,West,1981-10-26,Personal use,Yes,Social Media,4.0
+CL100516,Individual,Male,India,East,1988-10-26,Investment,No,Online Ads,4.0
+CL100517,Individual,Prefer not to say,India,North,2004-10-26,Investment,Yes,Broker,5.0
+CL100518,Corporate,Female,Singapore,North,1986-10-27,Investment,Yes,Website,4.0
+CL100519,Individual,Male,United States,Northeast,1978-10-27,Investment,Yes,Website,3.0
+CL100520,Individual,Female,India,West,1988-10-26,Investment,Yes,Direct,2.0
+CL100521,Individual,Female,UAE,Sharjah,1993-10-26,Investment,Yes,Social Media,3.0
+CL100522,Individual,Female,India,West,1993-10-26,Personal use,No,Social Media,5.0
+CL100523,Individual,Other,United States,West,1981-10-26,Personal use,No,Referral,5.0
+CL100524,Individual,Prefer not to say,Canada,British Columbia,1979-10-27,Investment,No,Direct,3.0
+CL100525,Individual,Female,Canada,British Columbia,1972-10-26,Investment,Yes,Online Ads,2.0
+CL100526,Individual,Female,India,West,1998-10-27,Investment,No,Social Media,3.0
+CL100527,Corporate,Male,India,South,1981-10-26,Investment,Yes,Referral,5.0
+CL100528,Individual,Female,India,South,1988-10-26,Personal use,Yes,Online Ads,3.0
+CL100529,Individual,Female,India,East,1988-10-26,Investment,No,Broker,4.0
+CL100530,Individual,Male,Canada,Ontario,1983-10-27,Investment,No,Referral,4.0
+CL100531,Individual,Male,Singapore,West,1983-10-27,Investment,Yes,Referral,5.0
+CL100532,Individual,Prefer not to say,United States,Midwest,1981-10-26,Investment,Yes,Referral,5.0
+CL100533,Individual,Female,United States,West,1999-10-27,Personal use,No,Online Ads,4.0
+CL100534,Corporate,Female,UAE,Abu Dhabi,1995-10-27,Personal use,Yes,Online Ads,4.0
+CL100535,Individual,Male,Singapore,West,1971-10-27,Personal use,Yes,Online Ads,5.0
+CL100536,Individual,Male,United States,Northeast,1989-10-26,Investment,No,Website,4.0
+CL100537,Corporate,Male,Canada,Quebec,1984-10-26,Personal use,Yes,Online Ads,3.0
+CL100538,Individual,Male,India,North,1975-10-27,Investment,Yes,Broker,4.0
+CL100539,Individual,Female,India,North,1982-10-27,Personal use,Yes,Referral,4.0
+CL100540,Individual,Male,India,,1981-10-26,Investment,No,Direct,3.0
+CL100541,Individual,Female,United States,Midwest,1977-10-26,Investment,No,Social Media,3.0
+CL100542,Corporate,Female,UAE,Sharjah,2005-10-26,Personal use,No,Referral,4.0
+CL100543,Individual,Male,India,West,1992-10-26,Personal use,No,Social Media,3.0
+CL100544,Individual,Female,United Kingdom,Midlands,1982-10-27,Investment,No,Social Media,3.0
+CL100545,Individual,Female,UAE,Dubai,1972-10-26,Investment,Yes,Direct,3.0
+CL100546,Corporate,Male,India,East,1986-10-27,Investment,Yes,Broker,4.0
+CL100547,Individual,Male,India,South,1996-10-26,Personal use,No,Online Ads,4.0
+CL100548,Corporate,Male,United Kingdom,London,1996-10-26,Investment,No,Broker,4.0
+CL100549,Individual,Female,UAE,Sharjah,1977-10-26,Personal use,No,Broker,4.0
+CL100550,Individual,Male,Singapore,Central,1989-10-26,Investment,No,Broker,4.0
+CL100551,Individual,Female,UAE,Sharjah,1987-10-27,Personal use,Yes,Referral,5.0
+CL100552,Individual,Female,Canada,Alberta,1980-10-26,Personal use,Yes,Social Media,4.0
+CL100553,Individual,,UAE,Dubai,2005-10-26,Investment,Yes,Direct,5.0
+CL100554,Individual,Male,UAE,Sharjah,1965-10-26,Personal use,Yes,Referral,3.0
+CL100555,Individual,Male,Canada,Quebec,1995-10-27,Investment,Yes,Online Ads,4.0
+CL100556,Corporate,Female,India,South,1984-10-26,Personal use,No,Online Ads,3.0
+CL100557,Corporate,Male,India,West,2005-10-26,Personal use,No,Social Media,3.0
+CL100558,Individual,Male,India,East,1992-10-26,Investment,Yes,Broker,3.0
+CL100559,Individual,Male,Singapore,North,1973-10-26,Personal use,No,Broker,3.0
+CL100560,Individual,Male,UAE,Abu Dhabi,2005-10-26,Personal use,No,Website,3.0
+CL100561,Individual,Female,United Kingdom,North,1975-10-27,Investment,Yes,Broker,5.0
+CL100562,Individual,Female,India,East,1990-10-27,Investment,No,Referral,4.0
+CL100563,Individual,Male,India,South,1982-10-27,Personal use,No,Website,4.0
+CL100564,Corporate,Female,India,West,1980-10-26,Personal use,No,Social Media,3.0
+CL100565,Individual,Female,India,East,1982-10-27,Investment,No,Direct,4.0
+CL100566,Corporate,Other,UAE,,1997-10-26,Investment,No,Direct,4.0
+CL100567,Corporate,Male,India,South,1991-10-27,Investment,Yes,Direct,3.0
+CL100568,Individual,Male,India,North,2003-10-27,Personal use,Yes,,2.0
+CL100569,Corporate,Male,Canada,British Columbia,1982-10-27,Investment,Yes,Website,4.0
+CL100570,Individual,Male,India,West,1968-10-26,Personal use,No,Broker,4.0
+CL100571,Individual,Female,India,West,2005-10-26,Investment,Yes,Direct,3.0
+CL100572,Individual,Female,Singapore,North,1995-10-27,Personal use,Yes,Online Ads,4.0
+CL100573,Individual,Female,India,South,1989-10-26,Investment,No,Referral,4.0
+CL100574,Individual,Female,UAE,Sharjah,1985-10-26,Investment,No,Online Ads,2.0
+CL100575,Individual,Male,Canada,British Columbia,1977-10-26,Investment,No,Broker,3.0
+CL100576,Individual,Female,United States,Midwest,1989-10-26,Investment,Yes,Referral,4.0
+CL100577,Individual,Male,India,North,1990-10-27,Personal use,Yes,Referral,5.0
+CL100578,Individual,Female,United States,Midwest,1975-10-27,Personal use,Yes,Online Ads,5.0
+CL100579,Individual,Female,India,North,1980-10-26,Personal use,Yes,Referral,5.0
+CL100580,Individual,Male,India,West,1981-10-26,Personal use,Yes,Social Media,4.0
+CL100581,Individual,Female,India,East,1986-10-27,Personal use,No,Referral,4.0
+CL100582,Individual,Female,United States,Northeast,1976-10-26,Personal use,No,Broker,5.0
+CL100583,Individual,Female,India,West,1994-10-27,Personal use,Yes,Broker,3.0
+CL100584,Individual,Female,India,East,1996-10-26,Personal use,No,Social Media,3.0
+CL100585,Individual,Male,UAE,Dubai,1979-10-27,Investment,No,Online Ads,3.0
+CL100586,Individual,Female,India,East,2005-10-26,Personal use,Yes,Direct,3.0
+CL100587,Individual,Female,India,South,1986-10-27,Investment,No,Broker,4.0
+CL100588,Individual,Male,India,South,1990-10-27,Personal use,Yes,Direct,3.0
+CL100589,Corporate,Female,India,North,2002-10-27,Personal use,Yes,Direct,4.0
+CL100590,Corporate,Male,India,West,1997-10-26,Investment,No,Referral,5.0
+CL100591,Corporate,Male,India,North,1988-10-26,Investment,Yes,Online Ads,4.0
+CL100592,Individual,Male,United Kingdom,North,1976-10-26,Personal use,No,Referral,5.0
+CL100593,Individual,Male,India,West,1994-10-27,Personal use,Yes,Website,5.0
+CL100594,Individual,Female,India,South,1974-10-27,Investment,No,Online Ads,4.0
+CL100595,Individual,Male,Canada,Alberta,1986-10-27,Personal use,Yes,Online Ads,4.0
+CL100596,Individual,Female,India,South,1973-10-26,Personal use,Yes,Website,5.0
+CL100597,Individual,Male,United Kingdom,Midlands,1994-10-27,Investment,Yes,Online Ads,3.0
+CL100598,Individual,Female,India,West,1988-10-26,Personal use,No,Online Ads,
+CL100599,Individual,Male,India,West,1983-10-27,Personal use,No,Website,4.0
+CL100600,Individual,Male,India,East,1989-10-26,Investment,No,Online Ads,4.0
+CL100262,Individual,Female,United States,West,1970-10-27,Personal use,Yes,Social Media,4.0
+CL100133,Individual,Female,India,East,1992-10-26,Personal use,Yes,Referral,5.0
+CL100576,Individual,Female,United States,Midwest,1989-10-26,Investment,Yes,Referral,4.0
+CL100455,Individual,Female,India,South,1973-10-26,Personal use,Yes,Broker,2.0

@@ -1,0 +1,28 @@
+country,region,buyers
+India,North,86
+India,West,83
+India,South,68
+India,East,62
+UAE,Abu Dhabi,32
+UAE,Sharjah,26
+Canada,British Columbia,22
+UAE,Dubai,20
+United States,Midwest,17
+Canada,Alberta,16
+United States,West,16
+United Kingdom,London,16
+United Kingdom,South East,15
+Singapore,North,15
+United States,Northeast,15
+United Kingdom,Midlands,14
+Canada,Quebec,13
+Singapore,East,12
+Singapore,Central,11
+Singapore,West,11
+United States,South,9
+United Kingdom,North,9
+Canada,Ontario,6
+India,,3
+UAE,,1
+United Kingdom,,1
+United States,,1
