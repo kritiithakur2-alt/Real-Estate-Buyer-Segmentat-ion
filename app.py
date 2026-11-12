@@ -16,7 +16,7 @@ st.warning("DATA DISCLAIMER: The bundled dataset is synthetic practice data, not
 
 uploaded = st.file_uploader("Upload an authorized buyer dataset (CSV) to replace the synthetic sample", type=["csv"])
 try:
-    df = pd.read_csv(uploaded) if uploaded is not None else pd.read_csv("data/real_estate_buyer_synthetic_dataset.csv")
+    df = pd.read_csv(uploaded) if uploaded is not None else pd.read_csv("real_estate_buyer_synthetic_dataset.csv")
 except Exception as e:
     st.error(f"Could not load data: {e}")
     st.stop()
