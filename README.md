@@ -2,7 +2,7 @@
 
 **Project:** Machine Learning-Based Buyer Segmentation and Investment Profiling for Real Estate Market Intelligence
 
-This repository contains a Streamlit dashboard, a reproducible Jupyter notebook, the supplied buyer dataset, analysis outputs and project reports.
+This repository contains a Streamlit dashboard, an executed Jupyter notebook, the supplied buyer dataset, analysis outputs and project reports.
 
 ## Data disclaimer
 The supplied dataset is **synthetic practice data**. It is not actual Parcl customer data and the results must not be represented as company findings.
@@ -10,14 +10,15 @@ The supplied dataset is **synthetic practice data**. It is not actual Parcl cust
 ## Repository contents
 - `app.py` — Streamlit interactive dashboard
 - `real_estate_buyer_synthetic_dataset.csv` — source synthetic dataset (604 rows)
-- `Real_Estate_Buyer_Segmentation.ipynb` — reproducible analysis notebook (run top to bottom to reproduce the workflow)
-- `FINAL_VERIFIED_REPORT.md` — canonical report aligned to the latest verified analysis
-- `Final_Real_Estate_Buyer_Segmentation_Report.pdf` and `.docx` — earlier report exports; use the canonical Markdown report if any figures differ
-- `kmeans_cluster_evaluation.csv`, `kmeans_cluster_profiles.csv`, `geographic_buyer_distribution.csv`, `acquisition_purpose_summary.csv` — latest verified analysis summaries
+- `Real_Estate_Buyer_Segmentation.ipynb` — executed, reproducible analysis notebook
+- `FINAL_VERIFIED_REPORT.md` — canonical report aligned to verified analysis
+- `Final_Real_Estate_Buyer_Segmentation_Report.pdf` — refreshed PDF report aligned to verified analysis
+- `Final_Real_Estate_Buyer_Segmentation_Report.docx` — editable report copy retained in the repository
+- `kmeans_cluster_evaluation.csv`, `kmeans_cluster_profiles.csv`, `geographic_buyer_distribution.csv`, `acquisition_purpose_summary.csv` — verified analysis summaries
 - `requirements.txt` — Python dependencies
 
 ## Verified analysis snapshot
-The latest verified analysis removes 4 exact duplicate rows (604 → 600), then excludes 6 records with missing region for the analysis set (600 → 594 unique buyers). K-Means selected k=2 from tested values 2–7; silhouette score = **0.112616**, indicating weak cluster separation.
+The analysis removes 4 exact duplicate rows (604 → 600), then excludes 6 records with missing region (600 → 594 unique buyers). K-Means selected k=2 from tested values 2–7; silhouette score = **0.112616**, indicating weak cluster separation.
 
 | Cluster | Buyers | Mean satisfaction |
 |---|---:|---:|
