@@ -1,7 +1,7 @@
 # Final Verified Project Report
 
 **Machine Learning-Based Buyer Segmentation and Investment Profiling for Real Estate Market Intelligence**  
-**Project context:** Unified Mentor / Parcl project brief
+Project context: Unified Mentor / Parcl project brief
 
 > **Data disclaimer:** The supplied dataset is synthetic practice data, not actual Parcl customer data. All findings are illustrative and must not be represented as company findings.
 
