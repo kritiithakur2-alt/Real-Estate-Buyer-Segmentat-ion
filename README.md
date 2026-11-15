@@ -10,9 +10,10 @@ The supplied dataset is **synthetic practice data**. It is not actual Parcl cust
 ## Repository contents
 - `app.py` — Streamlit interactive dashboard
 - `real_estate_buyer_synthetic_dataset.csv` — source synthetic dataset (604 rows)
-- `Real_Estate_Buyer_Segmentation.ipynb` — reproducible analysis notebook
-- `Final_Real_Estate_Buyer_Segmentation_Report.pdf` and `.docx` — report files currently in the repository
-- `*_verified.csv` — latest verified analysis summaries added in this update
+- `Real_Estate_Buyer_Segmentation.ipynb` — reproducible analysis notebook (run top to bottom to reproduce the workflow)
+- `FINAL_VERIFIED_REPORT.md` — canonical report aligned to the latest verified analysis
+- `Final_Real_Estate_Buyer_Segmentation_Report.pdf` and `.docx` — earlier report exports; use the canonical Markdown report if any figures differ
+- `kmeans_cluster_evaluation.csv`, `kmeans_cluster_profiles.csv`, `geographic_buyer_distribution.csv`, `acquisition_purpose_summary.csv` — latest verified analysis summaries
 - `requirements.txt` — Python dependencies
 
 ## Verified analysis snapshot
